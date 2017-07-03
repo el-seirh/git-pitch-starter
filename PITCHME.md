@@ -1,5 +1,9 @@
 ![LOGO](https://d1z75bzl1vljy2.cloudfront.net/img/gp-logo.png)
 HELLOOOOOOOOO FELLOW PITCHERS
+
+Note:
+This is a freakin note.
+
 #### Get the word out
 <br>
 <span style="color:gray">Markdown Presentations For Everyone</span>
